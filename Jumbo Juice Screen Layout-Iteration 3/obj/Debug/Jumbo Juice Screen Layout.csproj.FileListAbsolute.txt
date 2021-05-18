@@ -1,0 +1,36 @@
+S:\jqneal\SEM2\Database\Jumbo Juice Project\Visual Studio Parts\Screen Layout\Jumbo Juice Screen Layout\bin\Debug\Jumbo Juice Screen Layout.exe.config
+S:\jqneal\SEM2\Database\Jumbo Juice Project\Visual Studio Parts\Screen Layout\Jumbo Juice Screen Layout\bin\Debug\Jumbo Juice Screen Layout.exe
+S:\jqneal\SEM2\Database\Jumbo Juice Project\Visual Studio Parts\Screen Layout\Jumbo Juice Screen Layout\bin\Debug\Jumbo Juice Screen Layout.pdb
+S:\jqneal\SEM2\Database\Jumbo Juice Project\Visual Studio Parts\Screen Layout\Jumbo Juice Screen Layout\obj\Debug\Jumbo Juice Screen Layout.csprojAssemblyReference.cache
+S:\jqneal\SEM2\Database\Jumbo Juice Project\Visual Studio Parts\Screen Layout\Jumbo Juice Screen Layout\obj\Debug\Jumbo_Juice_Screen_Layout.Form1.resources
+S:\jqneal\SEM2\Database\Jumbo Juice Project\Visual Studio Parts\Screen Layout\Jumbo Juice Screen Layout\obj\Debug\Jumbo_Juice_Screen_Layout.Form2.resources
+S:\jqneal\SEM2\Database\Jumbo Juice Project\Visual Studio Parts\Screen Layout\Jumbo Juice Screen Layout\obj\Debug\Jumbo_Juice_Screen_Layout.Form3.resources
+S:\jqneal\SEM2\Database\Jumbo Juice Project\Visual Studio Parts\Screen Layout\Jumbo Juice Screen Layout\obj\Debug\Jumbo_Juice_Screen_Layout.Properties.Resources.resources
+S:\jqneal\SEM2\Database\Jumbo Juice Project\Visual Studio Parts\Screen Layout\Jumbo Juice Screen Layout\obj\Debug\Jumbo Juice Screen Layout.csproj.GenerateResource.cache
+S:\jqneal\SEM2\Database\Jumbo Juice Project\Visual Studio Parts\Screen Layout\Jumbo Juice Screen Layout\obj\Debug\Jumbo Juice Screen Layout.csproj.CoreCompileInputs.cache
+S:\jqneal\SEM2\Database\Jumbo Juice Project\Visual Studio Parts\Screen Layout\Jumbo Juice Screen Layout\obj\Debug\Jumbo Juice Screen Layout.exe
+S:\jqneal\SEM2\Database\Jumbo Juice Project\Visual Studio Parts\Screen Layout\Jumbo Juice Screen Layout\obj\Debug\Jumbo Juice Screen Layout.pdb
+S:\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\bin\Debug\Jumbo Juice Screen Layout.exe.config
+S:\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\bin\Debug\Jumbo Juice Screen Layout.exe
+S:\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\bin\Debug\Jumbo Juice Screen Layout.pdb
+S:\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\obj\Debug\Jumbo Juice Screen Layout.csprojAssemblyReference.cache
+S:\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\obj\Debug\Jumbo_Juice_Screen_Layout.Form1.resources
+S:\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\obj\Debug\Jumbo_Juice_Screen_Layout.Form2.resources
+S:\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\obj\Debug\Jumbo_Juice_Screen_Layout.Form3.resources
+S:\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\obj\Debug\Jumbo_Juice_Screen_Layout.Properties.Resources.resources
+S:\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\obj\Debug\Jumbo Juice Screen Layout.csproj.GenerateResource.cache
+S:\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\obj\Debug\Jumbo Juice Screen Layout.csproj.CoreCompileInputs.cache
+S:\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\obj\Debug\Jumbo Juice Screen Layout.exe
+S:\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\obj\Debug\Jumbo Juice Screen Layout.pdb
+\\ent-storage1.walton.uark.edu\enterprise$\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\bin\Debug\Jumbo Juice Screen Layout.exe.config
+\\ent-storage1.walton.uark.edu\enterprise$\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\bin\Debug\Jumbo Juice Screen Layout.exe
+\\ent-storage1.walton.uark.edu\enterprise$\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\bin\Debug\Jumbo Juice Screen Layout.pdb
+\\ent-storage1.walton.uark.edu\enterprise$\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\obj\Debug\Jumbo Juice Screen Layout.csprojAssemblyReference.cache
+\\ent-storage1.walton.uark.edu\enterprise$\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\obj\Debug\Jumbo_Juice_Screen_Layout.Form1.resources
+\\ent-storage1.walton.uark.edu\enterprise$\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\obj\Debug\Jumbo_Juice_Screen_Layout.Form2.resources
+\\ent-storage1.walton.uark.edu\enterprise$\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\obj\Debug\Jumbo_Juice_Screen_Layout.Form3.resources
+\\ent-storage1.walton.uark.edu\enterprise$\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\obj\Debug\Jumbo_Juice_Screen_Layout.Properties.Resources.resources
+\\ent-storage1.walton.uark.edu\enterprise$\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\obj\Debug\Jumbo Juice Screen Layout.csproj.GenerateResource.cache
+\\ent-storage1.walton.uark.edu\enterprise$\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\obj\Debug\Jumbo Juice Screen Layout.csproj.CoreCompileInputs.cache
+\\ent-storage1.walton.uark.edu\enterprise$\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\obj\Debug\Jumbo Juice Screen Layout.exe
+\\ent-storage1.walton.uark.edu\enterprise$\jqneal\Database Code\Jumbo Juice Screen Layout-Iteration 3\obj\Debug\Jumbo Juice Screen Layout.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jumbo Juice Screen Layout", "Jumbo Juice Screen Layout.csproj", "{EBB58A5F-2675-4A9F-888F-940BA9F70873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBB58A5F-2675-4A9F-888F-940BA9F70873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB58A5F-2675-4A9F-888F-940BA9F70873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB58A5F-2675-4A9F-888F-940BA9F70873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB58A5F-2675-4A9F-888F-940BA9F70873}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C81AD91F-CF22-49C9-A64A-891104AABFA9}
+	EndGlobalSection
+EndGlobal
